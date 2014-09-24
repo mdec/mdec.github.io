@@ -1,12 +1,12 @@
 - landing
-    - change title text
+    + change title text
     - change background image
 
-- services
-    - Shiny
-    - statistical analysis
-    - data cleaning
-    - process automation
++ services
+    + Shiny
+    + statistical analysis
+    + data cleaning
+    + process automation
 
 - about/portfolio -> projects
     - get screenshots
@@ -26,3 +26,5 @@
 
 - privacy policy
 - terms of use
+
+- git rm todo
